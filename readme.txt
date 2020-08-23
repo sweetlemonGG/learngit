@@ -1,2 +1,7 @@
 Hell0.
-Creating a new branch is quick & simple from master.
+<<<<<<< HEAD
+Creating a new branch is quick and simple.
+=======
+Creating a new branch is quick and simple.
+
+>>>>>>> feature1
